@@ -1,5 +1,5 @@
 # Processamento Digital de Sinais - PDS
 
-Conteúdo de aulas e trabalhos que envolvem a análise e o processamento digital de sinais.
+![Capa](/Imagem%20Sinais.gif)
 
-[Teste](/Imagem Sinais.gif)
+Conteúdo de aulas e trabalhos que envolvem a análise e o processamento digital de sinais.
