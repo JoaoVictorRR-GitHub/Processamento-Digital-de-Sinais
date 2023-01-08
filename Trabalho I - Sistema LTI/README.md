@@ -8,7 +8,7 @@
 [* Relatório](/Trabalho%20I%20-%20Sistema%20LTI/Relatorio%20Sistema%20LTI.pdf)
 
 
-### Códigos:
+### Implementação:
 
 [* Arquivo Principal](/Trabalho%20I%20-%20Sistema%20LTI/Main.py)
 
