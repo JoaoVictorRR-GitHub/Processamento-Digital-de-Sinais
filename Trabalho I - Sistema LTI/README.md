@@ -12,6 +12,6 @@
 
 [* Arquivo Principal](/Trabalho%20I%20-%20Sistema%20LTI/Main.py)
 
-[* Biblioteca Gráfica](/Trabalho%20I%20-%20Sistema%20LTI/Metodos_graficos.py)
+[* Biblioteca Gráfica](/Trabalho%20I%20-%20Sistema%20LTI/Metodos_Graficos.py)
 
 [* Sistema de Reverberação](/Trabalho%20I%20-%20Sistema%20LTI/Sistema_Reverberador.py)
